@@ -1,0 +1,17 @@
+c:/users/priyalwa/source/repos/StudentSample/StudentSample/bin/Debug/netcoreapp2.0/StudentSample.deps.json
+c:/users/priyalwa/source/repos/StudentSample/StudentSample/bin/Debug/netcoreapp2.0/StudentSample.runtimeconfig.json
+c:/users/priyalwa/source/repos/StudentSample/StudentSample/bin/Debug/netcoreapp2.0/StudentSample.runtimeconfig.dev.json
+c:/users/priyalwa/source/repos/StudentSample/StudentSample/bin/Debug/netcoreapp2.0/StudentSample.dll
+c:/users/priyalwa/source/repos/StudentSample/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.csprojResolveAssemblyReference.cache
+c:/users/priyalwa/source/repos/StudentSample/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.csproj.CoreCompileInputs.cache
+c:/users/priyalwa/source/repos/StudentSample/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.AssemblyInfoInputs.cache
+c:/users/priyalwa/source/repos/StudentSample/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.AssemblyInfo.cs
+C:/Users/priyalwa/source/repos/StudentSample/StudentSample/bin/Debug/netcoreapp2.0/StudentSample.pdb
+C:/Users/priyalwa/source/repos/StudentSample/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.dll
+C:/Users/priyalwa/source/repos/StudentSample/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.pdb
+/home/priyal/source/Blog/gitIdentity_Authentication/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.csprojResolveAssemblyReference.cache
+/home/priyal/source/Blog/gitIdentity_Authentication/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.csproj.CoreCompileInputs.cache
+/home/priyal/source/Blog/gitIdentity_Authentication/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.AssemblyInfoInputs.cache
+/home/priyal/source/Blog/gitIdentity_Authentication/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.AssemblyInfo.cs
+/home/priyal/source/Blog/gitIdentity_Authentication/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.dll
+/home/priyal/source/Blog/gitIdentity_Authentication/StudentSample/obj/Debug/netcoreapp2.0/StudentSample.pdb
